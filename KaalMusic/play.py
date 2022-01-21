@@ -207,15 +207,15 @@ async def vplay(client, m: Message):
             dl = await replied.download()
             link = replied.link
             if len(m.command) < 2:
-                Q = 720
+                Q = 360
             else:
                 pq = m.text.split(None, 1)[1]
-                if pq == "720" or "480" or "360":
+                if pq == "360" or "480" or "720":
                     Q = int(pq)
                 else:
-                    Q = 720
+                    Q = 360
                     await huehue.edit(
-                        "Only 720, 480, 360 ` Allowed \n`Now Stream in 720p`"
+                        "Only 360, 480, 720 ` Allowed \n`Now Stream in 320p`"
                     )
 
             if replied.video:
