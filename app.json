@@ -1,5 +1,5 @@
 {
-    "name": "SankiVcbot",
+    "name": "ZhuVCbot",
     "description": "Telegram UserBot To Play Songs And Videos In Telegram Voice Chat.",
     "logo": "",
     "keywords": [
@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/SankiWizer/SankiVcbot",
+    "repository": "https://github.com/Kenzuuu/ZhuVCBot",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
