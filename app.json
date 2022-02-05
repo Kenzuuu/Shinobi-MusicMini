@@ -1,13 +1,13 @@
 {
-    "name": "ZhuVCbot",
-    "description": "Telegram UserBot To Play Songs And Videos In Telegram Voice Chat.",
+    "name": "MUSIC MINI",
+    "description": "Bot Mini ini mampu Memuta lagu di VCG Anda",
     "logo": "",
     "keywords": [
         "Telegram",
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/Kenzuuu/ZhuVCBot",
+    "repository": "https://github.com/Kenzuuu/Shinobi-MusicMini",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
