@@ -2,7 +2,7 @@
 from datetime import datetime
 import psutil
 from config import HNDLR
-from KaalMusic.helpers.decorators import authorized_users_only
+from zhumusic.helpers.decorators import authorized_users_only
 from psutil._common import bytes2human
 from pyrogram import Client, filters
 
