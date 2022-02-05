@@ -9,7 +9,7 @@ from Python_ARQ import ARQ
 from config import HNDLR
 from zhumusic.helpers.merrors import capture_err
 
-ARQ_API_KEY = "QFOTZM-GSZUFY-CHGHRX-TDEHOZ-ARQ"
+ARQ_API_KEY = "WKTUTP-BWXLFT-UXZAVU-EMAMXA-ARQ"
 aiohttpsession = aiohttp.ClientSession()
 arq = ARQ("https://thearq.tech", ARQ_API_KEY, aiohttpsession)
 
