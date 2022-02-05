@@ -2,8 +2,8 @@ from typing import List
 
 from pyrogram.types import Chat
 
-from KaalMusic.helpers.get_admins import get as gett
-from KaalMusic.helpers.get_admins import set
+from zhumusic.helpers.get_admins import get as gett
+from zhumusic.helpers.get_admins import set
 
 
 async def get_administrators(chat: Chat) -> List[int]:
