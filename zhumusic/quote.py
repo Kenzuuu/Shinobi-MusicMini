@@ -7,7 +7,7 @@ from pyrogram.types import Message
 from Python_ARQ import ARQ
 
 from config import HNDLR
-from KaalMusic.helpers.merrors import capture_err
+from zhumusic.helpers.merrors import capture_err
 
 ARQ_API_KEY = "QFOTZM-GSZUFY-CHGHRX-TDEHOZ-ARQ"
 aiohttpsession = aiohttp.ClientSession()
