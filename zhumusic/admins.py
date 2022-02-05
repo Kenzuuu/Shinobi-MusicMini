@@ -2,9 +2,9 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 from config import HNDLR, call_py
-from KaalMusic.helpers.decorators import authorized_users_only
-from KaalMusic.helpers.handlers import skip_current_song, skip_item
-from KaalMusic.helpers.queues import QUEUE, clear_queue
+from zhumusic.helpers.decorators import authorized_users_only
+from zhumusic.helpers.handlers import skip_current_song, skip_item
+from zhumusic.helpers.queues import QUEUE, clear_queue
 
 
 @Client.on_message(filters.command(["skip"], prefixes=f"{HNDLR}"))
