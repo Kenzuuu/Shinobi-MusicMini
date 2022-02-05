@@ -1,7 +1,8 @@
+#
 import asyncio
 from pytgcalls import idle
 from config import call_py
-from KaalMusic.quote import arq
+from zhumusic.quote import arq
 
 
 async def main():
@@ -9,7 +10,7 @@ async def main():
     print(
         """
     ------------------
-   | Userbot Started! POWERED BY @SANKIXWORLD |
+   | Userbot Started! POWERED BY @triplenineee |
     ------------------
 """
     )
