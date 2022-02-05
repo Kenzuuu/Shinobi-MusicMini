@@ -1,6 +1,3 @@
-#kalo fork atau clone credit gua jangan diganti yah tod 
-#Credit for Mini Music (@triplenineee)
-
 import os
 
 from dotenv import load_dotenv
