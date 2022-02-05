@@ -12,7 +12,7 @@
 </h2>
 
 <p align="center">
-<a href="https://t.me/triplenineee"> <img src="https://img.shields.io/badge/Harsh-Telegram-magenta?style=for-the-badge&logo=telegram" alt="Vain telegram" /> </a>
+<a href="https://t.me/triplenineee"> <img src="https://img.shields.io/badge/TELEGRAM-magenta" width="500" /> </a>
 </p>
 
 
