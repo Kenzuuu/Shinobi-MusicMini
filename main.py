@@ -1,4 +1,6 @@
-#
+#kalo fork atau clone credit gua jangan diganti yah tod 
+#Credit for Mini Music (@triplenineee)
+
 import asyncio
 from pytgcalls import idle
 from config import call_py
